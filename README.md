@@ -67,8 +67,8 @@ This project evaluated several approaches before settling on AbuseIPDB:
 ### Setup
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/breakout-ip-monitor.git
-cd breakout-ip-monitor/scripts
+git clone https://github.com/csyntheses/IP-Blacklist-Detection-Workflow.git
+cd IP-Blacklist-Detection-Workflow/scripts
 
 # Copy and edit the config
 cp config.example.env .env
